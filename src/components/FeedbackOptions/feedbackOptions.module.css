@@ -1,0 +1,18 @@
+.optionsList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: center;
+}
+.optionsListItem {
+  margin: 10px;
+}
+.optionButton {
+  min-width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 700;
+}
